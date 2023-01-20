@@ -1,4 +1,4 @@
-# Got It's Final Project Template
+# Got It's Backend Training Final Project
 
 ## Requirements
 
